@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Timeline/app/src/main/res/drawable/ic_baseline_chevron_left_24.xml" value="0.167" />
+        <entry key="..\:/Timeline/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.167" />
+        <entry key="..\:/Timeline/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.167" />
+        <entry key="..\:/Timeline/app/src/main/res/drawable/shape_field.xml" value="0.191" />
+        <entry key="..\:/Timeline/app/src/main/res/layout/activity_add_post.xml" value="0.264" />
+        <entry key="..\:/Timeline/app/src/main/res/layout/activity_admin.xml" value="0.275" />
+        <entry key="..\:/Timeline/app/src/main/res/layout/activity_admin_login.xml" value="0.275" />
+        <entry key="..\:/Timeline/app/src/main/res/layout/activity_main.xml" value="0.2609375" />
+        <entry key="..\:/Timeline/app/src/main/res/layout/activity_my_post.xml" value="0.275" />
+        <entry key="..\:/Timeline/app/src/main/res/layout/activity_my_timeline.xml" value="0.2708333333333333" />
+        <entry key="..\:/Timeline/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Timeline/app/src/main/res/layout/activity_registration.xml" value="0.275" />
+        <entry key="..\:/Timeline/app/src/main/res/layout/activity_update_post.xml" value="0.275" />
+        <entry key="..\:/Timeline/app/src/main/res/layout/admin_view_user_data.xml" value="0.275" />
+        <entry key="..\:/Timeline/app/src/main/res/layout/edit_post.xml" value="0.275" />
+        <entry key="..\:/Timeline/app/src/main/res/layout/layout_edit_user.xml" value="0.275" />
+        <entry key="..\:/Timeline/app/src/main/res/layout/own_single_post.xml" value="0.275" />
+        <entry key="..\:/Timeline/app/src/main/res/layout/ownpost.xml" value="0.275" />
+        <entry key="..\:/Timeline/app/src/main/res/layout/timeline_single_post.xml" value="0.275" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
